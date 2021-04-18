@@ -1,0 +1,2 @@
+# German_credit_data
+Problem Statements:-  Predicts the roles wherein the German credit score seekers have been indulged in and as a result, have been maximum unhappy with the salaries that they have been getting at that time the usage of the enter features like- credit quantity, Age, Housing and period of mortgage.  it may additionally assist in predicting the roles in Germany a good way to be least preferred via Germans because of lack of delight they may get within the shape in their salaries.
